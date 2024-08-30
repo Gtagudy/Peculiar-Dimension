@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: d1513b7b64da01642b071422ca12a782
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 18
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SqareAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 207
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb6d8bf8c4e7fc4f91faa772b7cb380
+      internalID: -1272899809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1150
+        width: 204
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f1f830e681d0499b6c5f9712852ac
+      internalID: 369528635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1150
+        width: 201
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe80fd736d8a51545914845da78cfa88
+      internalID: 2146193390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1150
+        width: 195
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33f349f9870f946a55bb3d1dc115c3
+      internalID: 867657412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1150
+        width: 191
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381685de9e101c54d824f12acbde9b56
+      internalID: 1313857155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1150
+        width: 184
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc3cd89f05f04f41b47d98d9d13bfe0
+      internalID: -457623511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 894
+        width: 178
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877343dac27ae914591343238111c93f
+      internalID: 960322533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 894
+        width: 170
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b6761934dc0b4a9ebe272c9ebe509
+      internalID: 914642614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 894
+        width: 162
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3bce36819fe64d9ed6c58607f6d00
+      internalID: 232676409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_9
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 894
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65647d246377c9147922266174d4d118
+      internalID: -555103852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 898
+        width: 122
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a426a91d622e54589ee71a191bcf41
+      internalID: 1303008931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 897
+        width: 75
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2491bdba60786aa45b04616e08622565
+      internalID: -247820731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 638
+        width: 85
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd7010a08908f4ea74ee536a646e86
+      internalID: -1871637017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 638
+        width: 180
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78122205030453949b9fb0dbfa1911f3
+      internalID: 722018033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_16
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 638
+        width: 133
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a5b3bebf200c4ea6903ff44d583af
+      internalID: 684101964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 638
+        width: 132
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088dd8e7852dab468b705e4bc1ee859
+      internalID: 87638785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 638
+        width: 85
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc15938bb14a246b77d96c1cb6dbbd
+      internalID: 2127740899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 641
+        width: 75
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a2ce91ff296984abca5db857404d23
+      internalID: -184906049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 386
+        width: 122
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392ecf20e419bce418fb3e1f999d3cc0
+      internalID: -715405939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 382
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef19283ff7f7784f9e56777e5a212fa
+      internalID: 320620165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 382
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e05b3a32c7d047b0140ad1473bbe9
+      internalID: 82845323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 382
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d51224b9548ca0479e88db1a978507c
+      internalID: -420065693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 382
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeecbda72425a94dbf1792a5fd676e4
+      internalID: -1715028913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 382
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f65ff1e24a894db04c8b5f1c7204f
+      internalID: -1561684793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 126
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d1dcd6fa7b9b49b399c38249fb010
+      internalID: 197063866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 126
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed47af404c0d447bb19ee794bbcbf3
+      internalID: -408343796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 126
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a77a30ef96b74a9a6d3f8ff8f60de
+      internalID: -1459667680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_31
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 126
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ff23f22d694d49aff2485df27acd0
+      internalID: 167473202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_32
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 126
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59cdcc8e9bc87b4883aa97137160ccf
+      internalID: 693196919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareAttack_33
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 126
+        width: 153
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30337387308484aaaf1bb53ca86466
+      internalID: 1193020847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb60ae0ac08ada6428c0ddd253b97a17
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SqareAttack_0: -1272899809
+      SqareAttack_1: 369528635
+      SqareAttack_10: 1303008931
+      SqareAttack_11: 496640266
+      SqareAttack_12: 903307085
+      SqareAttack_13: -247820731
+      SqareAttack_14: -1871637017
+      SqareAttack_15: 722018033
+      SqareAttack_16: 684101964
+      SqareAttack_17: 87638785
+      SqareAttack_18: 2127740899
+      SqareAttack_19: -1320150045
+      SqareAttack_2: 2146193390
+      SqareAttack_20: -184906049
+      SqareAttack_21: -715405939
+      SqareAttack_22: 398565175
+      SqareAttack_23: 320620165
+      SqareAttack_24: 82845323
+      SqareAttack_25: -420065693
+      SqareAttack_26: -1715028913
+      SqareAttack_27: -1561684793
+      SqareAttack_28: 197063866
+      SqareAttack_29: -408343796
+      SqareAttack_3: 867657412
+      SqareAttack_30: -1459667680
+      SqareAttack_31: 167473202
+      SqareAttack_32: 693196919
+      SqareAttack_33: 1193020847
+      SqareAttack_4: 1313857155
+      SqareAttack_5: -457623511
+      SqareAttack_6: 960322533
+      SqareAttack_7: 914642614
+      SqareAttack_8: 232676409
+      SqareAttack_9: -555103852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

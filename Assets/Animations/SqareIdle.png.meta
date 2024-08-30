@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 22fc93f3f57b2f046b6668ac8f553165
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SqareIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 207
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc6de536622bfa42b60b0bff06f97ad
+      internalID: -1206370059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1407
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281ddad016d1ac438f669a62a4c22ff
+      internalID: -210131728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1407
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc9a8ef757fa744ae6089212d4543a
+      internalID: 1887391056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1408
+        width: 205
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94c9f1764307c478e4d9abfb92180b
+      internalID: -1405002736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1409
+        width: 203
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e396f513363d9439cc65fb190f7258
+      internalID: -1310296675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1409
+        width: 201
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87694b32531d9498a29787e0d169c2
+      internalID: 1935578536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1410
+        width: 200
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e748fe5a5333d84790823b27fe90817
+      internalID: 1961687841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1154
+        width: 198
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7349254ccb414cbe4b2990ec14013
+      internalID: 2116692747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1155
+        width: 196
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361493daaaebcb14bb7fee22e5634425
+      internalID: -1572551532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1156
+        width: 194
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652118830b95a8348ac3233d06e06733
+      internalID: -2130537530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1155
+        width: 196
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a44c46c9bed2439b9988dded22c9b
+      internalID: -2022002988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1155
+        width: 198
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f65c85250a0b24bbbf14965a63799c
+      internalID: 2125751141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1154
+        width: 199
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3840cf1918a5d41b4e4f9b589f1782
+      internalID: -1585661413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1153
+        width: 201
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90ca0289cfdaa14f84166b3d0616bc4
+      internalID: -1846737381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 897
+        width: 202
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa1319f70c99244afafc0c2320ba14
+      internalID: 381937051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 896
+        width: 204
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e04677758667f4eb47b05576fbcafc
+      internalID: -327523927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 897
+        width: 205
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000930973f313bf42b599a338adddce1
+      internalID: -1902312695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_17
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 896
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03209925fdbfad419c0139625f80d3b
+      internalID: 590436145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 895
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aca06f88ca1b4498d5e75da246559f
+      internalID: -1552648110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 207
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25a1cd9ab0ca5408fd2520e256ed29
+      internalID: -1934899904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_20
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 895
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a316fff5dfc159e499170b84361a5758
+      internalID: 298478449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d32b7447ad24b43a1e45f540fcdbe1
+      internalID: -1223489121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 640
+        width: 205
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20477eaaffe43e4ab8da4733516580e
+      internalID: 149585946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 640
+        width: 204
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d75ff50d30504fb824d8c89608d96
+      internalID: -1218728294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 641
+        width: 202
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3554324791da604d8cee33ce3bebedf
+      internalID: 437668927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_25
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 641
+        width: 201
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dffb2a2980e8340b6983c3dac61439
+      internalID: -869851895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_26
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 642
+        width: 199
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb6c9c208b8b8498224697d19b56e8
+      internalID: -176262105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 643
+        width: 198
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd00c7c7db84844878109d4a552b33
+      internalID: -282558418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 387
+        width: 196
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c87e68b6a835d40b78ad236614b2e0
+      internalID: -1805024448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 387
+        width: 194
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57e914b1521f74e8b5cdbd0ef29af7
+      internalID: -138016377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_30
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 387
+        width: 196
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06268c13593186244bb4c1e40581267d
+      internalID: -434124079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_31
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 387
+        width: 198
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0c1dd431bd7a49b803589552be410
+      internalID: -2084253593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_32
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 386
+        width: 199
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b27561ef0d051408de081828f2e79d
+      internalID: 917436616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_33
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 385
+        width: 201
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b97faceda53514590a0f2df4bd0034
+      internalID: -1690149571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_34
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 385
+        width: 202
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0272180ec9c89de4f8982574accaa8ba
+      internalID: -1570700307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 204
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00f27915c28494a8dd137b8eb8c32b
+      internalID: 2039306499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 205
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6d50c7de1156498f53a21b9619309
+      internalID: -1840135177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 127
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336333594c3c98429160d54f16ce4b0
+      internalID: 367635035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_38
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 127
+        width: 206
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de187c2c3c5ddf343bf20c305922a2f0
+      internalID: -2101471832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 126
+        width: 207
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba87b16ffb83d4c8d04e63bf23014d
+      internalID: -319414864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SqareIdle_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 126
+        width: 207
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3a308523b12d4c8b27a262e270c9d
+      internalID: -277646834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e0e44ed97d1c4c5459a9be2da8cb04a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SqareIdle_0: -1206370059
+      SqareIdle_1: -210131728
+      SqareIdle_10: -2022002988
+      SqareIdle_11: 2125751141
+      SqareIdle_12: -1585661413
+      SqareIdle_13: -1846737381
+      SqareIdle_14: 381937051
+      SqareIdle_15: -327523927
+      SqareIdle_16: -1902312695
+      SqareIdle_17: 590436145
+      SqareIdle_18: -1552648110
+      SqareIdle_19: -1934899904
+      SqareIdle_2: 1887391056
+      SqareIdle_20: 298478449
+      SqareIdle_21: -1223489121
+      SqareIdle_22: 149585946
+      SqareIdle_23: -1218728294
+      SqareIdle_24: 437668927
+      SqareIdle_25: -869851895
+      SqareIdle_26: -176262105
+      SqareIdle_27: -282558418
+      SqareIdle_28: -1805024448
+      SqareIdle_29: -138016377
+      SqareIdle_3: -1405002736
+      SqareIdle_30: -434124079
+      SqareIdle_31: -2084253593
+      SqareIdle_32: 917436616
+      SqareIdle_33: -1690149571
+      SqareIdle_34: -1570700307
+      SqareIdle_35: 2039306499
+      SqareIdle_36: -1840135177
+      SqareIdle_37: 367635035
+      SqareIdle_38: -2101471832
+      SqareIdle_39: -319414864
+      SqareIdle_4: -1310296675
+      SqareIdle_40: -277646834
+      SqareIdle_41: -161454160
+      SqareIdle_5: 1935578536
+      SqareIdle_6: 1961687841
+      SqareIdle_7: 2116692747
+      SqareIdle_8: -1572551532
+      SqareIdle_9: -2130537530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
